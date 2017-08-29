@@ -1,0 +1,2 @@
+Aug 29, 2017 12:31:37 PM org.apache.beam.sdk.io.FileBasedSource expandFilePattern
+INFO: Matched 1 files for pattern C:\WINDOWS\TEMP\junit277386474092097663\junit669746517258006844.tmp
